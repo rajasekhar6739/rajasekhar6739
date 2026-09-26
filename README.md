@@ -109,3 +109,28 @@ LLM Reasoning
 Evaluation / Verification
   ↓
 Grounded Response
+
+### Pin these repositories
+
+Your first six pinned items should ideally be your strongest **actual code repositories**, with the RAG project first and EvoMind second. GitHub allows up to six pinned repositories/gists. 1
+
+**Recommended order:**
+
+1. `agentic-rag-intelligence`
+2. `evomind`
+3. LLM / Transformer project
+4. Agentic AI project
+5. Multimodal AI project
+6. LLM evaluation / fine-tuning project
+
+Also, each repository README should clearly show:
+
+**Problem → Architecture → Technologies → Implementation → Evaluation → Demo → How to Run**
+
+That is much stronger than simply listing technologies.
+
+### Important
+
+Your profile README appears automatically when you create a **public repository whose name exactly matches your GitHub username**, with `README.md` in its root. 2
+
+If you give me your **GitHub username**, I can build the **exact final GitHub profile README + bio + repository descriptions + pin order** around your actual projects, rather than using placeholders. [GitHub profile documentation](https://reference-url-citation.invalid/3)4
