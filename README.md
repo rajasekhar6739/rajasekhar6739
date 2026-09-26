@@ -1,136 +1,134 @@
-# Hi, I'm Rajasekhar Reddy 👋
+# Rajasekhar Reddy
 
-### AI Engineer | Generative AI | Agentic AI | RAG | LLM Systems
+### AI Engineer | Generative AI | Agentic AI | LLM Systems
 
-I build AI systems that combine retrieval, reasoning, tool use, and
-agentic workflows to solve practical problems.
+I build end-to-end AI systems around large language models, retrieval,
+agents, tool use and evaluation.
 
-My focus is on turning modern AI concepts into working, deployable systems.
-
----
-
-## 🚀 Featured Projects
-
-### 01. RAG Agent Intelligence Platform
-
-An agentic RAG system designed to retrieve relevant knowledge,
-reason over retrieved context, use tools when required, and
-generate grounded responses.
-
-**Core concepts**
-- Retrieval-Augmented Generation
-- Embeddings & Vector Search
-- Query Rewriting
-- Hybrid Retrieval
-- Agentic Workflows
-- Tool / Function Calling
-- Structured Outputs
-- LLM Evaluation
-- Grounded Generation
-
-🔗 Live Demo: https://agentic-rag-intelligence-platform-6739.streamlit.app/
+My work focuses on the engineering around the model:
+how information is retrieved, how context is constructed, how tools are
+selected and executed, and how AI outputs are validated.
 
 ---
 
-### 02. EvoMind
+## AI Systems
 
-An AI application demonstrating modern GenAI system architecture
-with a dedicated frontend and backend.
+### 01 — Agentic RAG Intelligence Platform
+
+An agentic retrieval system combining knowledge retrieval, LLM reasoning
+and tool-driven workflows into a single pipeline.
+
+**System**
+
+User Query
+→ Query Understanding
+→ Retrieval
+→ Context
+→ LLM Reasoning
+→ Agent / Tool Decision
+→ Validation
+→ Response
 
 **Focus**
-- LLM-powered applications
-- AI workflows
-- Backend AI services
-- API-driven architecture
-- Production-oriented deployment
 
-🔗 Frontend: https://evomind-1.onrender.com
-
-🔗 Backend: [Add backend URL]
-
----
-
-## 🧠 Technical Focus
-
-**AI / ML**
-- Transformers
-- Attention Mechanisms
-- LLM Architecture
-- Tokenization
-- Embeddings
-- LLM Fine-tuning
-
-**Generative AI**
-- Prompt Engineering
 - RAG
-- Vector Databases
-- Context Engineering
+- Embeddings
+- Retrieval
+- Query Understanding
+- LLM Reasoning
+- Tool Calling
+- Agentic Workflows
 - Structured Outputs
-- Function Calling
+- Evaluation
 
-**Agentic AI**
-- Agent Architecture
-- Tool-Using Agents
-- Multi-step Reasoning Workflows
-- Agent Orchestration
-- Critic / Evaluation Agents
+**Live System**
 
-**Multimodal AI**
-- Vision-Language Models
-- Image Understanding
-- Document Intelligence
-- Multimodal RAG
+https://agentic-rag-intelligence-platform-6739.streamlit.app/
 
-**Engineering**
-- Python
-- FastAPI
-- Streamlit
-- REST APIs
-- Git & GitHub
-- Docker
-- Deployment
-- API Integration
+**Source**
+
+https://github.com/rajasekhar6739/rag-agents-intelligence
 
 ---
 
-## 🔬 What I Build
+### 02 — EvoMind
+
+A full-stack AI application with a separate frontend and backend,
+connected through an application/API layer.
+
+**System**
+
+User
+→ Frontend
+→ API
+→ AI / Application Logic
+→ Backend
+→ Response
+
+**Live Application**
+
+https://evomind-1.onrender.com
+
+**Backend**
+
+https://evomind-4455.onrender.com
+
+---
+
+## Engineering Stack
+
+### LLM Engineering
+
+`Transformers` `Attention` `LLM Architecture`
+`Tokenization` `Prompt Engineering` `Structured Outputs`
+`Model APIs` `Inference`
+
+### Retrieval Systems
+
+`Embeddings` `Semantic Search` `Vector Databases`
+`BM25` `Hybrid Retrieval` `Reranking`
+`Query Rewriting` `Context Construction` `RAG`
+
+### Agentic AI
+
+`Function Calling` `Tool Use` `Agent Orchestration`
+`Planning` `Task Decomposition` `Memory`
+`Reflection` `Critic / Evaluator` `Multi-Agent Workflows`
+
+### Multimodal AI
+
+`Vision-Language Models` `OCR` `Image Understanding`
+`PDF Understanding` `Document Intelligence`
+`Multimodal Retrieval`
+
+### AI Reliability
+
+`Groundedness` `Faithfulness` `Retrieval Evaluation`
+`Answer Relevance` `Tool-call Accuracy`
+`Latency` `Token Usage` `Cost Awareness` `Observability`
+
+### Engineering
+
+`Python` `FastAPI` `REST APIs` `Streamlit`
+`Docker` `Git` `Testing` `Cloud Deployment`
+`Environment Management` `CI/CD`
+
+---
+
+## How I Build AI Systems
 
 ```text
-User
-  ↓
-AI Reasoning Layer
-  ↓
-Query / Task Understanding
-  ↓
-Retrieval + Tools + Agents
-  ↓
-LLM Reasoning
-  ↓
-Evaluation / Verification
-  ↓
-Grounded Response
-
-### Pin these repositories
-
-Your first six pinned items should ideally be your strongest **actual code repositories**, with the RAG project first and EvoMind second. GitHub allows up to six pinned repositories/gists. 1
-
-**Recommended order:**
-
-1. `agentic-rag-intelligence`
-2. `evomind`
-3. LLM / Transformer project
-4. Agentic AI project
-5. Multimodal AI project
-6. LLM evaluation / fine-tuning project
-
-Also, each repository README should clearly show:
-
-**Problem → Architecture → Technologies → Implementation → Evaluation → Demo → How to Run**
-
-That is much stronger than simply listing technologies.
-
-### Important
-
-Your profile README appears automatically when you create a **public repository whose name exactly matches your GitHub username**, with `README.md` in its root. 2
-
-If you give me your **GitHub username**, I can build the **exact final GitHub profile README + bio + repository descriptions + pin order** around your actual projects, rather than using placeholders. [GitHub profile documentation](https://reference-url-citation.invalid/3)4
+                 AI SYSTEM
+                    │
+        ┌───────────┼───────────┐
+        │           │           │
+     KNOWLEDGE   REASONING     ACTION
+        │           │           │
+       RAG          LLM        TOOLS
+        │           │           │
+   RETRIEVAL     PLANNING    EXECUTION
+        └───────────┼───────────┘
+                    │
+               EVALUATION
+                    │
+                  RESULT
