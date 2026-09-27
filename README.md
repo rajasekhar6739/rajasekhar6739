@@ -14,7 +14,34 @@
 
 </div>
 
+<div align="center">
 
+  ##PROJECTS
+  
+</div>
+
+<div align="center">
+
+#Agentic-rag-intelligence
+
+</div>
+
+[![Live Demo](https://img.shields.io/badge/◉%20LIVE%20DEMO-0A84FF?style=for-the-badge&logo=streamlit&logoColor=white)](https://agentic-rag-intelligence-platform-6739.streamlit.app/)
+[![Source Code](https://img.shields.io/badge/⌘%20SOURCE%20CODE-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajasekhar6739/agentic-rag-intelligence-platform)
+
+</div>
+
+<div align="center">
+
+#Evomind
+
+</div>
+
+<div align="center">
+[![Frontend](https://img.shields.io/badge/◉%20FRONTEND-0A84FF?style=for-the-badge&logo=vercel&logoColor=white)](https://evomind-1.onrender.com/)
+[![Backend](https://img.shields.io/badge/⚙%20BACKEND-6C5CE7?style=for-the-badge&logo=render&logoColor=white)](https://evomind-4455.onrender.com/)
+[![Source Code](https://img.shields.io/badge/⌘%20SOURCE%20CODE-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajasekhar6739/evomind)
+</div>
 ---
 
 ## 🌐 Socials:
