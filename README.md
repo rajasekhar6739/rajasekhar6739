@@ -174,6 +174,7 @@ complete system can be tested, evaluated and improved.
 
 > **Models that can interact with tools and workflows**
 
+
 ```text
 FUNCTION CALLING   •   TOOL USE   •   PLANNING
 TASK DECOMPOSITION •   ORCHESTRATION •   MEMORY
