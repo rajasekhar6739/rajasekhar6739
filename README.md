@@ -1,5 +1,210 @@
-# 💫 About Me:
-## About Me<br><br>I build AI systems around LLMs — systems that can retrieve information, reason over context, use tools, and produce structured, verifiable results.<br><br>My engineering work covers Generative AI, RAG, agentic workflows, embeddings, retrieval, tool calling, multimodal AI, LLM evaluation, APIs, and deployment.<br><br>I’m particularly interested in what happens beyond the model: retrieval quality, context construction, agent execution, validation, failure handling, evaluation, latency, and the engineering decisions that turn an LLM capability into a working system.<br><br>I build these systems end-to-end, from architecture and reasoning pipelines to application interfaces, APIs, evaluation, and deployment.
+<div align="center">
+
+# ✦ RAJASEKHAR REDDY
+
+### AI ENGINEER · GENERATIVE AI · AGENTIC AI · LLM SYSTEMS
+
+<br>
+
+<img src="https://img.shields.io/badge/GENAI-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/AGENTIC_AI-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/LLM_SYSTEMS-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/MULTIMODAL_AI-111111?style=for-the-badge">
+
+<br><br>
+
+### ◈ Building intelligent systems around LLMs.
+
+</div>
+
+---
+
+## ◆ ABOUT
+
+> **I build AI systems that go beyond a model call.**
+
+My work focuses on the engineering around large language models —
+**retrieval, context, reasoning, agents, tools, structured outputs and evaluation.**
+
+I build systems that connect **LLMs with knowledge, tools, APIs and application logic**, with an emphasis on understanding how each layer behaves and how the overall system can be tested and improved.
+
+---
+
+## ◇ CORE AI
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🧠
+### LLM ENGINEERING
+
+`Transformers`  
+`Attention`  
+`Tokenization`  
+`LLM Architecture`  
+`Prompt Engineering`  
+`Structured Outputs`
+
+</td>
+
+<td align="center" width="33%">
+
+### ◉
+### RAG & RETRIEVAL
+
+`Embeddings`  
+`Vector Search`  
+`BM25`  
+`Hybrid Retrieval`  
+`Reranking`  
+`Query Rewriting`
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚡
+### AGENTIC AI
+
+`Agents`  
+`Tool Use`  
+`Function Calling`  
+`Planning`  
+`Orchestration`  
+`Evaluation`
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 👁
+### MULTIMODAL
+
+`Vision`  
+`OCR`  
+`Documents`  
+`Image Understanding`  
+`PDF Understanding`
+
+</td>
+
+<td align="center">
+
+### ◈
+### AI RELIABILITY
+
+`Groundedness`  
+`Faithfulness`  
+`Relevance`  
+`Hallucination Detection`  
+`Evaluation`
+
+</td>
+
+<td align="center">
+
+### ⚙
+### AI ENGINEERING
+
+`Python`  
+`FastAPI`  
+`REST APIs`  
+`Docker`  
+`Testing`  
+`Deployment`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ✦ WHAT I CARE ABOUT
+
+### **MODEL**
+
+`Architecture` · `Inference` · `Context`
+
+### **INTELLIGENCE**
+
+`Retrieval` · `Reasoning` · `Planning`
+
+### **ACTION**
+
+`Tools` · `Function Calling` · `Execution`
+
+### **RELIABILITY**
+
+`Validation` · `Evaluation` · `Observability`
+
+</div>
+
+---
+
+## ◉ ENGINEERING FOCUS
+
+**◆ Retrieval**
+
+Designing systems that can find the information an LLM actually needs.
+
+**◆ Context**
+
+Controlling what information reaches the model instead of treating the context window as an unlimited memory.
+
+**◆ Agents**
+
+Connecting models with tools and structured execution rather than treating an agent as simply another chatbot.
+
+**◆ Evaluation**
+
+Testing retrieval, generation and agent behaviour instead of judging a system from a successful demo.
+
+**◆ Engineering**
+
+Turning AI capabilities into applications with APIs, interfaces, testing and deployment.
+
+---
+
+<div align="center">
+
+## ⟡ AI SYSTEMS I'VE BUILT
+
+<br>
+
+### `01`  AGENTIC RAG INTELLIGENCE PLATFORM
+
+**RAG · LLM REASONING · AGENTS · TOOLS · EVALUATION**
+
+[ ◉ LIVE SYSTEM ](https://agentic-rag-intelligence-platform-6739.streamlit.app/)
+
+<br>
+
+### `02`  EVOMIND
+
+**FULL-STACK AI APPLICATION · FRONTEND · API · BACKEND**
+
+[ ◉ APPLICATION ](https://evomind-1.onrender.com/)  
+[ ◉ BACKEND ](https://evomind-4455.onrender.com/)
+
+</div>
+
+---
+
+## ◆ TECHNICAL IDENTITY
+
+```text
+Generative AI        ████████████████████
+RAG & Retrieval      ████████████████████
+Agentic AI           ████████████████████
+LLM Engineering      ████████████████████
+Multimodal AI        ████████████████████
+AI Evaluation        ████████████████████
 
 
 ## 🌐 Socials:
