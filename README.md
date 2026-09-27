@@ -1,211 +1,183 @@
 <div align="center">
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 # ✦ RAJASEKHAR REDDY
 
-### AI ENGINEER · GENERATIVE AI · AGENTIC AI · LLM SYSTEMS
+### `AI ENGINEER`  ·  `GENERATIVE AI`  ·  `AGENTIC AI`  ·  `LLM SYSTEMS`
 
 <br>
 
-<img src="https://img.shields.io/badge/GENAI-111111?style=for-the-badge">
-<img src="https://img.shields.io/badge/AGENTIC_AI-111111?style=for-the-badge">
-<img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge">
-<img src="https://img.shields.io/badge/LLM_SYSTEMS-111111?style=for-the-badge">
-<img src="https://img.shields.io/badge/MULTIMODAL_AI-111111?style=for-the-badge">
+╭─────────────────────────────────────────────────────────────────╮
+│                                                                 │
+│       ◉  LLMs        ◉  RAG        ◉  AGENTS        ◉  TOOLS    │
+│                                                                 │
+│       ◉  MULTIMODAL AI        ◉  EVALUATION        ◉  APIs      │
+│                                                                 │
+╰─────────────────────────────────────────────────────────────────╯
 
-<br><br>
+<br>
 
-### ◈ Building intelligent systems around LLMs.
+### **Building intelligent systems around LLMs.**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
 
----
 
-## ◆ ABOUT
+## ╭─ ✦ ABOUT ME ─╮
 
-> **I build AI systems that go beyond a model call.**
+**I build AI systems that go beyond a model call.**
 
 My work focuses on the engineering around large language models —
 **retrieval, context, reasoning, agents, tools, structured outputs and evaluation.**
 
-I build systems that connect **LLMs with knowledge, tools, APIs and application logic**, with an emphasis on understanding how each layer behaves and how the overall system can be tested and improved.
+I build systems that connect **models + knowledge + tools + APIs + application
+logic**, with a focus on understanding how each layer behaves and how the
+complete system can be tested, evaluated and improved.
 
----
 
-## ◇ CORE AI
+<div align="center">
+
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║       🧠  MODEL          ◈  KNOWLEDGE          ⚡  ACTION         ║
+║                                                                  ║
+║     LLM ENGINEERING       RAG / RETRIEVAL       AGENTS / TOOLS   ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+
+</div>
+
+
+## ╭─ 🧠 LLM ENGINEERING ─╮
+
+> **The model layer**
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td>
 
-### 🧠
-### LLM ENGINEERING
-
-`Transformers`  
-`Attention`  
-`Tokenization`  
-`LLM Architecture`  
-`Prompt Engineering`  
-`Structured Outputs`
+**TRANSFORMERS**
 
 </td>
+<td>
 
-<td align="center" width="33%">
-
-### ◉
-### RAG & RETRIEVAL
-
-`Embeddings`  
-`Vector Search`  
-`BM25`  
-`Hybrid Retrieval`  
-`Reranking`  
-`Query Rewriting`
+**ATTENTION**
 
 </td>
+<td>
 
-<td align="center" width="33%">
+**TOKENIZATION**
 
-### ⚡
-### AGENTIC AI
+</td>
+<td>
 
-`Agents`  
-`Tool Use`  
-`Function Calling`  
-`Planning`  
-`Orchestration`  
-`Evaluation`
+**LLM ARCHITECTURE**
 
 </td>
 </tr>
 
 <tr>
+<td>
+
+**PROMPT ENGINEERING**
+
+</td>
+<td>
+
+**CONTEXT ENGINEERING**
+
+</td>
+<td>
+
+**STRUCTURED OUTPUTS**
+
+</td>
+<td>
+
+**INFERENCE**
+
+</td>
+</tr>
+</table>
+
+
+## ╭─ 🔎 RETRIEVAL INTELLIGENCE ─╮
+
+> **Giving models the right information**
+
+<table>
+<tr>
 <td align="center">
 
-### 👁
-### MULTIMODAL
+### ◈
 
-`Vision`  
-`OCR`  
-`Documents`  
-`Image Understanding`  
-`PDF Understanding`
+**EMBEDDINGS**
 
 </td>
 
 <td align="center">
 
 ### ◈
-### AI RELIABILITY
 
-`Groundedness`  
-`Faithfulness`  
-`Relevance`  
-`Hallucination Detection`  
-`Evaluation`
+**VECTOR SEARCH**
 
 </td>
 
 <td align="center">
 
-### ⚙
-### AI ENGINEERING
+### ◈
 
-`Python`  
-`FastAPI`  
-`REST APIs`  
-`Docker`  
-`Testing`  
-`Deployment`
+**BM25**
+
+</td>
+
+<td align="center">
+
+### ◈
+
+**RERANKING**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+**HYBRID RETRIEVAL**
+
+</td>
+
+<td align="center">
+
+**QUERY REWRITING**
+
+</td>
+
+<td align="center">
+
+**CONTEXT SELECTION**
+
+</td>
+
+<td align="center">
+
+**RAG**
 
 </td>
 </tr>
 </table>
 
----
 
-<div align="center">
+## ╭─ ⚡ AGENTIC AI ─╮
 
-## ✦ WHAT I CARE ABOUT
-
-### **MODEL**
-
-`Architecture` · `Inference` · `Context`
-
-### **INTELLIGENCE**
-
-`Retrieval` · `Reasoning` · `Planning`
-
-### **ACTION**
-
-`Tools` · `Function Calling` · `Execution`
-
-### **RELIABILITY**
-
-`Validation` · `Evaluation` · `Observability`
-
-</div>
-
----
-
-## ◉ ENGINEERING FOCUS
-
-**◆ Retrieval**
-
-Designing systems that can find the information an LLM actually needs.
-
-**◆ Context**
-
-Controlling what information reaches the model instead of treating the context window as an unlimited memory.
-
-**◆ Agents**
-
-Connecting models with tools and structured execution rather than treating an agent as simply another chatbot.
-
-**◆ Evaluation**
-
-Testing retrieval, generation and agent behaviour instead of judging a system from a successful demo.
-
-**◆ Engineering**
-
-Turning AI capabilities into applications with APIs, interfaces, testing and deployment.
-
----
-
-<div align="center">
-
-## ⟡ AI SYSTEMS I'VE BUILT
-
-<br>
-
-### `01`  AGENTIC RAG INTELLIGENCE PLATFORM
-
-**RAG · LLM REASONING · AGENTS · TOOLS · EVALUATION**
-
-[ ◉ LIVE SYSTEM ](https://agentic-rag-intelligence-platform-6739.streamlit.app/)
-
-<br>
-
-### `02`  EVOMIND
-
-**FULL-STACK AI APPLICATION · FRONTEND · API · BACKEND**
-
-[ ◉ APPLICATION ](https://evomind-1.onrender.com/)  
-[ ◉ BACKEND ](https://evomind-4455.onrender.com/)
-
-</div>
-
----
-
-## ◆ TECHNICAL IDENTITY
+> **Models that can interact with tools and workflows**
 
 ```text
-Generative AI        ████████████████████
-RAG & Retrieval      ████████████████████
-Agentic AI           ████████████████████
-LLM Engineering      ████████████████████
-Multimodal AI        ████████████████████
-AI Evaluation        ████████████████████
-
+FUNCTION CALLING   •   TOOL USE   •   PLANNING
+TASK DECOMPOSITION •   ORCHESTRATION •   MEMORY
+REFLECTION         •   CRITIC / EVALUATOR
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajasekhar6739) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:speed6739s@gmail.com) 
