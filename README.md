@@ -16,13 +16,13 @@
 
 <div align="center">
 
-  ##PROJECTS
+  ## PROJECTS
   
 </div>
 
 <div align="center">
 
-#Agentic-rag-intelligence
+# Agentic-rag-intelligence
 
 </div>
 
@@ -33,14 +33,16 @@
 
 <div align="center">
 
-#Evomind
+# Evomind
 
 </div>
 
 <div align="center">
+  
 [![Frontend](https://img.shields.io/badge/◉%20FRONTEND-0A84FF?style=for-the-badge&logo=vercel&logoColor=white)](https://evomind-1.onrender.com/)
 [![Backend](https://img.shields.io/badge/⚙%20BACKEND-6C5CE7?style=for-the-badge&logo=render&logoColor=white)](https://evomind-4455.onrender.com/)
 [![Source Code](https://img.shields.io/badge/⌘%20SOURCE%20CODE-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajasekhar6739/evomind)
+
 </div>
 ---
 
