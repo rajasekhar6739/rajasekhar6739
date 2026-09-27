@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#050912"/>
+    <stop offset="0.55" stop-color="#071426"/>
+    <stop offset="1" stop-color="#090615"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#16c7ff"/>
+    <stop offset="0.55" stop-color="#6675ff"/>
+    <stop offset="1" stop-color="#b84cff"/>
+  </linearGradient>
+  <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0d1b31"/>
+    <stop offset="1" stop-color="#08111f"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="7" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+    <path d="M42 0H0V42" fill="none" stroke="#16304d" stroke-width="1" opacity=".42"/>
+  </pattern>
+</defs>
+
+<rect width="1600" height="900" fill="url(#bg)"/>
+<rect width="1600" height="900" fill="url(#grid)" opacity=".45"/>
+
+<!-- header -->
+<rect x="0" y="0" width="1600" height="74" fill="#050a14" opacity=".88"/>
+<rect x="0" y="73" width="1600" height="2" fill="url(#accent)"/>
+<text x="58" y="45" fill="#f4f8ff" font-family="Arial, sans-serif" font-size="20" font-weight="700">RR</text>
+<text x="105" y="45" fill="#d9e7ff" font-family="Arial, sans-serif" font-size="15" letter-spacing="2">RAJASEKHAR REDDY THIPPIREDDY</text>
+<text x="1160" y="45" fill="#aabbd3" font-family="Arial, sans-serif" font-size="13">AI SYSTEMS  •  PROJECTS  •  ARCHITECTURE  •  CODE</text>
+
+<!-- hero -->
+<text x="60" y="135" fill="#20cfff" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">AI ENGINEER</text>
+<text x="60" y="185" fill="#f7faff" font-family="Arial, sans-serif" font-size="52" font-weight="800">RAJASEKHAR REDDY</text>
+<text x="60" y="235" fill="url(#accent)" font-family="Arial, sans-serif" font-size="52" font-weight="800">THIPPIREDDY</text>
+<text x="60" y="275" fill="#b9c8dc" font-family="Arial, sans-serif" font-size="19">Generative AI  •  Agentic AI  •  LLM Systems</text>
+<text x="60" y="315" fill="#d9e4f2" font-family="Arial, sans-serif" font-size="16">Building intelligent systems with LLMs, RAG, agents, retrieval,</text>
+<text x="60" y="340" fill="#d9e4f2" font-family="Arial, sans-serif" font-size="16">tool use, multimodal AI and evaluation.</text>
+
+<!-- badges -->
+<g font-family="Arial, sans-serif" font-size="12" font-weight="700">
+  <rect x="60" y="365" width="118" height="32" rx="16" fill="#0a182a" stroke="#16c7ff"/><text x="83" y="386" fill="#e8f6ff">GENERATIVE AI</text>
+  <rect x="188" y="365" width="70" height="32" rx="16" fill="#0a182a" stroke="#16c7ff"/><text x="210" y="386" fill="#e8f6ff">RAG</text>
+  <rect x="268" y="365" width="102" height="32" rx="16" fill="#0a182a" stroke="#6675ff"/><text x="290" y="386" fill="#e8f6ff">AGENTIC AI</text>
+  <rect x="380" y="365" width="112" height="32" rx="16" fill="#0a182a" stroke="#8b5cff"/><text x="402" y="386" fill="#e8f6ff">LLM SYSTEMS</text>
+  <rect x="502" y="365" width="116" height="32" rx="16" fill="#0a182a" stroke="#22d3c5"/><text x="523" y="386" fill="#e8f6ff">MULTIMODAL</text>
+</g>
+
+<!-- hero system visual -->
+<g filter="url(#glow)">
+  <rect x="1080" y="118" width="260" height="58" rx="14" fill="url(#card)" stroke="#16c7ff"/>
+  <text x="1178" y="153" text-anchor="middle" fill="#f4fbff" font-family="Arial" font-size="18" font-weight="700">USER GOAL</text>
+  <path d="M1210 176V205" stroke="#16c7ff" stroke-width="3"/>
+  <rect x="1050" y="205" width="320" height="62" rx="16" fill="url(#card)" stroke="#6675ff"/>
+  <text x="1210" y="243" text-anchor="middle" fill="#fff" font-family="Arial" font-size="18" font-weight="700">LLM + REASONING</text>
+  <path d="M1210 267V296" stroke="#6675ff" stroke-width="3"/>
+  <rect x="1020" y="296" width="380" height="62" rx="16" fill="url(#card)" stroke="#8b5cff"/>
+  <text x="1210" y="334" text-anchor="middle" fill="#fff" font-family="Arial" font-size="18" font-weight="700">RETRIEVAL + CONTEXT</text>
+  <path d="M1210 358V387" stroke="#8b5cff" stroke-width="3"/>
+  <rect x="1050" y="387" width="320" height="62" rx="16" fill="url(#card)" stroke="#22d3c5"/>
+  <text x="1210" y="425" text-anchor="middle" fill="#fff" font-family="Arial" font-size="18" font-weight="700">TOOLS + AGENTS</text>
+  <path d="M1210 449V478" stroke="#22d3c5" stroke-width="3"/>
+  <rect x="1080" y="478" width="260" height="58" rx="14" fill="url(#card)" stroke="#42e6a4"/>
+  <text x="1210" y="513" text-anchor="middle" fill="#fff" font-family="Arial" font-size="18" font-weight="700">EVALUATION</text>
+</g>
+
+<!-- content cards -->
+<g font-family="Arial, sans-serif">
+  <rect x="50" y="430" width="730" height="185" rx="18" fill="url(#card)" stroke="#1d79b7"/>
+  <text x="78" y="466" fill="#27d0ff" font-size="14" font-weight="700" letter-spacing="2">ABOUT ME</text>
+  <text x="78" y="502" fill="#f2f7ff" font-size="18" font-weight="700">AI systems, not just model calls.</text>
+  <text x="78" y="530" fill="#b9c8dc" font-size="14">RAG • retrieval • context • reasoning • agents • tools • evaluation</text>
+  <text x="78" y="557" fill="#b9c8dc" font-size="14">End-to-end engineering across models, knowledge, APIs, interfaces</text>
+  <text x="78" y="579" fill="#b9c8dc" font-size="14">and deployment — with observable, testable system behaviour.</text>
+
+  <rect x="800" y="560" width="750" height="185" rx="18" fill="url(#card)" stroke="#6048c9"/>
+  <text x="830" y="596" fill="#a88cff" font-size="14" font-weight="700" letter-spacing="2">CORE SYSTEMS</text>
+  <text x="830" y="632" fill="#eaf1ff" font-size="15">◆ LLM ENGINEERING</text>
+  <text x="830" y="656" fill="#8ddfff" font-size="13">Transformers • Attention • Tokenization • Structured Outputs</text>
+  <text x="830" y="688" fill="#eaf1ff" font-size="15">◆ RETRIEVAL</text>
+  <text x="830" y="712" fill="#8ddfff" font-size="13">Embeddings • Vector Search • BM25 • Hybrid Retrieval • RAG</text>
+  <text x="1210" y="632" fill="#eaf1ff" font-size="15">◆ AGENTIC AI</text>
+  <text x="1210" y="656" fill="#8ddfff" font-size="13">Tools • Function Calling • Planning • Orchestration</text>
+  <text x="1210" y="688" fill="#eaf1ff" font-size="15">◆ MULTIMODAL + EVAL</text>
+  <text x="1210" y="712" fill="#8ddfff" font-size="13">Vision • Documents • Groundedness • Relevance</text>
+
+  <rect x="50" y="635" width="730" height="110" rx="18" fill="url(#card)" stroke="#1d9e91"/>
+  <text x="78" y="671" fill="#39e6d5" font-size="14" font-weight="700" letter-spacing="2">ENGINEERING MINDSET</text>
+  <text x="78" y="706" fill="#eaf1ff" font-size="16">MODEL  →  KNOWLEDGE  →  REASONING  →  ACTION  →  VALIDATION  →  EVALUATION</text>
+  <text x="78" y="731" fill="#9fb3c9" font-size="13">Design the system around the model. Make behaviour inspectable and measurable.</text>
+</g>
+
+<!-- project strip -->
+<rect x="50" y="775" width="1500" height="80" rx="18" fill="#071321" stroke="#23537b"/>
+<text x="78" y="806" fill="#27d0ff" font-family="Arial" font-size="13" font-weight="700" letter-spacing="2">FEATURED SYSTEMS</text>
+<text x="78" y="835" fill="#f3f8ff" font-family="Arial" font-size="16" font-weight="700">01  Agentic RAG Intelligence Platform</text>
+<text x="600" y="835" fill="#9fdcff" font-family="Arial" font-size="14">RAG • Agents • Tools • Evaluation</text>
+<text x="1060" y="835" fill="#f3f8ff" font-family="Arial" font-size="16" font-weight="700">02  EvoMind</text>
+<text x="1170" y="835" fill="#9fdcff" font-family="Arial" font-size="14">Frontend • API • Backend</text>
+
+<text x="60" y="883" fill="#657a93" font-family="Arial" font-size="12">AI ENGINEER  •  GENERATIVE AI  •  AGENTIC AI  •  LLM SYSTEMS</text>
+<text x="1540" y="883" text-anchor="end" fill="#657a93" font-family="Arial" font-size="12">BUILD • TEST • EVALUATE • IMPROVE</text>
+</svg>
