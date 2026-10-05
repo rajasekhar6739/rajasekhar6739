@@ -10,7 +10,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-rajasekhar6739-0b1220?style=for-the-badge&logo=github)](https://github.com/rajasekhar6739)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0b1220?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajasekhar6739)
-[![Email](https://img.shields.io/badge/Email-speed6739%40gmail.com-0b1220?style=for-the-badge&logo=gmail)](mailto:speed6739s@gmail.com)
+[![Email](https://img.shields.io/badge/Email-speed6739s%40gmail.com-0b1220?style=for-the-badge&logo=gmail)](mailto:speed6739s@gmail.com)
 
 </div>
 
